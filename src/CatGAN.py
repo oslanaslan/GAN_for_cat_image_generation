@@ -391,6 +391,3 @@ class CatGan:
 
         # self.clearDir()
         return fid_value
-
-
-
